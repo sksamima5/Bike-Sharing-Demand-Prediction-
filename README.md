@@ -47,7 +47,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 # Conclusions:
 * #### As we have calculated MAE,MSE,RMSE and R2 score for each model. Based on r2 score will decide our model performance.
-* #### Our assumption: if the differnece of R2 score between Train data and Test is more than 5 % we will consider it as overfitting. 
+ 
 
 * ## Linear,Lasso,Ridge and ElasticNet.
 * #### 1)linear,Lasso,Ridge  and Elastic  regression models have almost similar R2 scores(61%) on both training and test data.(Even after using GridserachCV we have got similar results as of base models).
