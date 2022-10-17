@@ -53,7 +53,7 @@ You are required to model the demand for shared bikes with the available indepen
 * #### 1) Linear, Lasso, Ridge and Elastic regression models have almost similar R2 scores on both training and test data.(Even after using GridserachCV we have got similar results as of base models).
 
 ## Decision Tree Regressor:
- * #### On Decision tree regressor model, without hyperparameter tuning we got r2 score as 71% on training data and 68% on test data. Thus our model memorised the data.
+ * #### On Decision tree regressor model, without hyperparameter tuning we got r2 score as 64% on training data and 62% on test data. Thus our model memorised the data.
 
 
 ## Random Forest:
