@@ -58,7 +58,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Random Forest:
 
- * #### On Random Forest regressor model, without hyperparameter tuning we got r2 score as 98% on training data and 90% on test data. Thus our model memorised the data.
+ * #### On Random Forest regressor model, with hyperparameter tuning we got r2 score as 84% on training data and 81% on test data. Thus our model memorised the data.
 
 ## Gradient Boosting Regression(Gradient Boosting Machine):
 
